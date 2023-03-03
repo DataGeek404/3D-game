@@ -7,10 +7,12 @@ Live Demo - https://hex-racing.netlify.app
 
 # Sample
 
-
+![alt text](https://github.com/Amankumar321/hex-racing/blob/main/hex.jpeg?raw=true)
 
 # Offical page
 
 https://hexgl.bkcore.com
+
+https://github.com/BKcore/HexGL
 
 Does not allow multiplayer
