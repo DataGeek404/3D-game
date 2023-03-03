@@ -7,7 +7,7 @@ Live Demo - https://hex-racing.netlify.app
 
 # Sample
 
-![alt text](https://github.com/Amankumar321/hex-racing/blob/hex.jpeg?raw=true)
+![alt text](https://github.com/Amankumar321/hex-racing/blob/hex.jpg?raw=true)
 
 # Offical page
 
