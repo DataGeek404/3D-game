@@ -20,7 +20,4 @@ https://hexgl.bkcore.com
 
 https://github.com/BKcore/HexGL
 
-Does not allow multiplayer
-# VR-chocolate
-# VR-chocolate
-# 3D-game
+
